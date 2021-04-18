@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NhacOffline</string>
+    <string name="listen_now_string">Dang phat</string>
+    <string name="favorite_songs_string">Bai hat yeu thich</string>
+    <string name="all_songs_string">Tat ca bai hat</string>
+</resources>
